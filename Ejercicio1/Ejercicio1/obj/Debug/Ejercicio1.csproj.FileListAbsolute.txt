@@ -1,0 +1,8 @@
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Examen1P\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
